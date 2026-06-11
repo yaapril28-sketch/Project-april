@@ -1,0 +1,8 @@
+{
+  "name": "IoT Dashboard",
+  "description": "Dashboard IoT interaktif dengen visualisasi sensor, kontrol relay, kontrol pola, multi-broker MQTT, dan kontrol suara (Voice Command).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
